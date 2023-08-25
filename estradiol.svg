@@ -38,7 +38,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g171"
+     inkscape:current-layer="layer1"
      showguides="true"><sodipodi:guide
        position="408.6035,306.99801"
        orientation="0,-1"
@@ -67,7 +67,13 @@
      id="defs1">&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;	&#10;</defs><g
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
-     id="layer1"><path
+     id="layer1"><rect
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+   id="rect178"
+   width="737.00787"
+   height="321.25986"
+   x="-1.4210855e-14"
+   y="-5.6843419e-14" /><path
    id="path1-3"
    style="fill:#c7cee0;fill-opacity:1;stroke:none;stroke-width:67.7464;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill;opacity:1"
    d="m 77.126151,118.44857 c 0.58296,1.70627 -14.64964,9.20179 -15.44393,10.82051 -0.79429,1.61873 2.59798,18.25326 0.89173,18.83622 -1.70626,0.58297 -9.20179,-14.64964 -10.82051,-15.44393 -1.61873,-0.79429 -18.253256,2.59799 -18.83622,0.89173 -0.582965,-1.70626 14.64964,-9.20179 15.44393,-10.82051 0.79429,-1.61873 -2.59799,-18.25326 -0.89173,-18.83622 1.70627,-0.58297 9.20179,14.64964 10.82051,15.44393 1.61873,0.79429 18.25325,-2.59798 18.83622,-0.89173 z" /><path
