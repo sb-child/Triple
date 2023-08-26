@@ -31,6 +31,10 @@
 
 ![img](estradiol-small-right.svg)
 
+商家给的效果图：
+
+![img](a16914d9b965b605c2d64c42773daed9.png)
+
 图片尺寸 19.5 x 8.5 cm，水杯直径 8 cm 高度 9.5 cm。[点这里](estradiol-small-right.png)查看 png 图片，可以找商家定制水杯~
 
 ## 许可证
