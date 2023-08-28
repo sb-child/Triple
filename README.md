@@ -3,6 +3,8 @@
 
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
+**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)字体**
+
 ## 可爱的图标们！
 
 ![img](icons.svg)
