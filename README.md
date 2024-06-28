@@ -43,7 +43,11 @@
 
 ## 奇怪的黑胶 CD 封面 (DVD 也可以吧)
 
-todo
+![img](cover-prod.png)
+
+图片尺寸 8 x 8 cm，[点这里](cover-prod.svg)查看原始 svg 文件，可以找商家定制转印贴~
+
+不过它确实是为 120 mm 的 CD 定制的... 80 mm 的 CD 应该也可以贴上?
 
 ## 许可证
 
