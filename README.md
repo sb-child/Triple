@@ -49,6 +49,8 @@
 
 不过它确实是为 120 mm 的 CD 定制的... 80 mm 的 CD 应该也可以贴上?
 
+tip: 如果发现 Inkscape 导出的 png 是黑白色的... 可以先导出为 tiff 再转换成 png。
+
 ## 许可证
 
 本 repo 下所有文件均使用 [cc by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证，详见 [License](LICENSE) 文件
