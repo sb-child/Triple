@@ -3,7 +3,7 @@
 
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
-**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)字体**
+**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)和[这个](https://github.com/be5invis/Sarasa-Gothic)字体**
 
 ## 可爱的图标们！
 
@@ -40,6 +40,10 @@
 ![img](a16914d9b965b605c2d64c42773daed9.png)
 
 图片尺寸 19.5 x 8.5 cm，水杯直径 8 cm 高度 9.5 cm。[点这里](estradiol-small-right.png)查看 png 图片，可以找商家定制水杯~
+
+## 奇怪的黑胶 CD 封面 (DVD 也可以吧)
+
+todo
 
 ## 许可证
 
