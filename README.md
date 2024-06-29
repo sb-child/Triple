@@ -47,6 +47,10 @@
 
 图片尺寸 8 x 8 cm，[点这里](cover-prod.svg)查看原始 svg 文件，可以下载[这个](cover-prod.png)文件找商家定制转印贴~
 
+![img](cover-prod-render.png)
+
+渲染效果图
+
 不过它确实是为 120 mm 的**黑胶** CD 定制的... ~~80 mm 的 CD 应该也可以贴上?~~ 不可以
 
 tip: 如果发现 Inkscape 导出的 png 是黑白色的... 可以先导出为 tiff 再转换成 png。
