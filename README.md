@@ -101,7 +101,7 @@
 
 对于钦定经销商，若无法遵守上述许可证，则必须遵守以下条件：
 
-- 在最终产品和(或)附加文档中包含经销商署名
+- 在最终产品中，或在附加文档中包含经销商署名（可以都包含，但至少其一包含）
 - 不可在最终产品中包含[原作者署名](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans#ref-appropriate-credit)
 - 不可公开分享生产稿
 - 可以(但不必要)在最终产品的附加文档中包含[原作者署名](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans#ref-appropriate-credit)
