@@ -3,7 +3,9 @@
 
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
-**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)和[这个](https://github.com/be5invis/Sarasa-Gothic)字体**
+**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)和[这个](https://github.com/be5invis/Sarasa-Gothic)字体**。
+
+如果编辑器找不到 `思源黑体` ，请将字体改为 `思源黑体 CN`。
 
 ---
 
