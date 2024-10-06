@@ -96,3 +96,12 @@
 ## 许可证 / License
 
 本 repo 下所有文件均使用 [cc by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证，详见 [License](LICENSE) 文件
+
+### *钦定*经销商专用许可证 / License for *Certified* Distributor
+
+对于钦定经销商，若无法遵守上述许可证，则必须遵守以下条件：
+
+- 在最终产品和(或)附加文档中包含经销商署名
+- 不可在最终产品中包含[原作者署名](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans#ref-appropriate-credit)
+- 不可公开分享生产稿
+- 可以(但不必要)在最终产品的附加文档中包含[原作者署名](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans#ref-appropriate-credit)
