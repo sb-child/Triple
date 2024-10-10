@@ -93,6 +93,7 @@
 
 | 饼干实验室 |
 | --- |
+| ![饼干实验室](seller/IMG_20241010_174000.jpg) |
 | Telegram 频道: https://t.me/cookielib |
 
 你也在卖嘛？如果想让大家知道的话，欢迎开 issue 或提交 PR
