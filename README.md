@@ -3,7 +3,9 @@
 
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
-**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)和[这个](https://github.com/be5invis/Sarasa-Gothic)字体**
+**打开svg文件前，请安装[这个](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip)和[这个](https://github.com/be5invis/Sarasa-Gothic)字体**。
+
+如果编辑器找不到 `思源黑体` ，请将字体改为 `思源黑体 CN`。
 
 ---
 
@@ -89,8 +91,19 @@
 | 淘宝: 墨守的小卖部 |
 | 拼多多: 软兔守守的冬日暖意小屋 |
 
+| 饼干实验室 |
+| --- |
+| ![饼干实验室](seller/IMG_20241010_174000.jpg) |
+| Telegram 频道: https://t.me/cookielib |
+
 你也在卖嘛？如果想让大家知道的话，欢迎开 issue 或提交 PR
 
 ## 许可证 / License
 
 本 repo 下所有文件均使用 [cc by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证，详见 [License](LICENSE) 文件
+
+### *钦定*经销商专用许可证 / License for *Certified* Distributor
+
+对于钦定经销商，若无法遵守上述许可证，那么生产稿可以保持私有，但是必须遵守以下条件：
+
+- 在最终产品中，或在附加文档中包含经销商署名（可以都包含，但至少其一包含）
