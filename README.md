@@ -21,7 +21,7 @@
 
 > 准备首次生产中
 
-[点击查看](estradiol-skirt/README.md)
+[点击查看](estradiol-shirt/README.md)
 
 ## 奇怪的黑胶 CD 封面 (DVD 也可以吧) `Draft/草案`
 
