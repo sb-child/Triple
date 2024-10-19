@@ -15,6 +15,10 @@
 
 ## Estradiol 杯! `Release/可生产`
 
+| 实拍图 (Estradiol 杯 > 右右版) |
+| --- |
+| ![img](estradiol-cup/index.png) |
+
 [点击查看](estradiol-cup/README.md)
 
 ## Estradiol 衬衫! `Beta/测试中`
