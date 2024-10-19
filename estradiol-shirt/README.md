@@ -33,7 +33,7 @@
 
 | 生产稿 (Estradiol 衬衫 > 白色) |
 | --- |
-| 给商家发送: [前胸](white-back.png) \| [后背](white-back.png) \| [效果图](white-render.png) |
+| 给商家发送: [前胸](white-front.png) \| [后背](white-back.png) \| [效果图](white-render.png) |
 
 ## 黑色衬衫
 
@@ -59,6 +59,6 @@
 
 | 生产稿 (Estradiol 衬衫 > 黑色) |
 | --- |
-| 给商家发送: [前胸](black-back.png) \| [后背](black-back.png) \| [效果图](black-render.png) |
+| 给商家发送: [前胸](black-front.png) \| [后背](black-back.png) \| [效果图](black-render.png) |
 
 ## [返回首页](../README.md)
