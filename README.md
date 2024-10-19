@@ -17,7 +17,7 @@
 
 | 实拍图 (Estradiol 杯 > 右右版) |
 | --- |
-| ![img](estradiol-cup/index.png) |
+| <img alt="img" src="estradiol-cup/index.png" style="max-width: 500px" /> |
 
 [点击查看](estradiol-cup/README.md)
 
@@ -47,13 +47,13 @@
 
 | 墨盒实验室 |
 | --- |
-| ![墨盒实验室](seller/photo_2024-06-30_16-44-32.jpg) |
+| <img alt="墨盒实验室" src="seller/photo_2024-06-30_16-44-32.jpg" style="max-width: 500px" /> |
 | 淘宝: 墨守的小卖部 |
 | 拼多多: 软兔守守的冬日暖意小屋 |
 
 | 饼干实验室 |
 | --- |
-| ![饼干实验室](seller/IMG_20241010_174000.jpg) |
+| <img alt="饼干实验室" src="seller/IMG_20241010_174000.jpg" style="max-width: 500px" /> |
 | Telegram 频道: https://t.me/cookielib |
 
 你也在卖嘛？如果想让大家知道的话，欢迎开 issue 或提交 PR
