@@ -2,16 +2,14 @@
 
 `[持续更新中]` 适合带到三次元世界的可爱的插画们
 
+| 封面 |
+| --- |
+| ![img](cover.svg) |
+| [查看封面svg原图](cover.svg) \| [查看背景svg原图](icons.svg) |
+
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
 ---
-
-## 可爱的图标们! 
-
-| svg 预览 |
-| --- |
-| ![img](icons.svg) |
-| [查看svg原图](icons.svg) |
 
 ## Estradiol 杯! `Release/可生产`
 
