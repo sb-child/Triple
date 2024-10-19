@@ -17,9 +17,9 @@
 
 [点击查看](estradiol-cup/README.md)
 
-## Estradiol 衬衫! `Draft/草案`
+## Estradiol 衬衫! `Beta/测试中`
 
-> 准备首次生产中
+> 首次生产中...
 
 [点击查看](estradiol-shirt/README.md)
 
