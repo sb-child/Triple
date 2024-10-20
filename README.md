@@ -35,26 +35,11 @@
 
 ## 编辑和贡献小贴士 / Edit & Contribute Tips
 
-- 请安装[思源黑体](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip), [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases/download/v1.501/lxgw-wenkai-v1.501.zip)和[更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
-- 推荐 svg 编辑器: [Inkscape](https://inkscape.org/)
-- 如果发现 Inkscape 导出的 png 是黑白色的... 请点击导出按钮右边的小齿轮看看设置
-- 提交 PR 前，请确保 png 文件都是最新的 (记得导出)
-- 如果编辑器找不到 `思源黑体` ，请将字体改为 `思源黑体 CN`，反之亦然。
+[点击查看](CONTRIBUTING.md)
 
 ## *钦定*经销商 / *Certified* Distributor
 
-| 墨盒实验室 |
-| --- |
-| <img alt="墨盒实验室" src="seller/photo_2024-06-30_16-44-32.jpg" style="max-width: 500px" /> |
-| 淘宝: 墨守的小卖部 |
-| 拼多多: 软兔守守的冬日暖意小屋 |
-
-| 饼干实验室 |
-| --- |
-| <img alt="饼干实验室" src="seller/IMG_20241010_174000.jpg" style="max-width: 500px" /> |
-| Telegram 频道: https://t.me/cookielib |
-
-你也在卖嘛？如果想让大家知道的话，欢迎开 issue 或提交 PR
+[点击查看](seller/README.md)
 
 ## 许可证 / License
 
